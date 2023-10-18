@@ -1,0 +1,39 @@
+Aluna; Laryssa Cruz da Silva
+
+atividade
+
+-Commit:
+ Commit refere-se ao processo de tornar permanente um conjunto de alterações, ou seja, 
+de efetivar as alterações. Um uso comum é a conclusão de uma transação.
+
+- Branch:
+ No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+
+- Merge:
+ Quando um desenvolvedor quer reproduzir as alterações de sua branch para outras branches, 
+é necessário que ele faça a junção das branches.
+
+- MainLine:
+ É um comando que deixa todas as ramificações em uma só linha.
+
+- Clone:
+ Copia o repositorio para a maquina local.
+
+- Push:
+ É literalmente o que um aplicativo faz na hora de enviar uma notificação deste tipo.
+
+- Pull:
+ Para mover as alterações do repositório local para o remoto.
+
+- Add:
+ git add pode ter a reputação de ser uma etapa desnecessária no desenvolvimento.
+ 
+- Staged:
+ Arquivos que estão prontos para serem enviados ao repositorio.
+  
+- Version:
+ Mostra todas as funções do repositorio.
+
+- Repository:
+ É um lugar onde você pode armazenar seu código, seus arquivos e o histórico de revisão de cada arquivo.
+
